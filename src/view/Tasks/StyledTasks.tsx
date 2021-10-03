@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const StyledTasks = styled.div`
-  width: 50vw;
+  min-width: 50vw;
   display: flex;
   flex-direction: column;
   border-right: 1px solid rgba(191, 191, 191, 0.2);
